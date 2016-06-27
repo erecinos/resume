@@ -1,0 +1,25 @@
+{
+  "name": "resume-erecinos",
+  "version": "1.0.0",
+  "description": "Emmanuel Recinos's resume",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erecinos/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "Emmanuel",
+    "Recinos",
+    "erecinos"
+  ],
+  "author": "Emmanuel Recinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erecinos/resume/issues"
+  },
+  "homepage": "https://github.com/erecinos/resume#readme"
+}
